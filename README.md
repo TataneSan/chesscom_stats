@@ -14,11 +14,8 @@ You can install these packages using pip:
 
 
 ```pip install plotly pandas numpy``` 
-Installing
-Clone the repository:
 
 ```git clone https://github.com/TataneSan/chesscom_stats/.git```
-Navigate to the cloned directory:
 
 ```cd chesscom_stats```
 
