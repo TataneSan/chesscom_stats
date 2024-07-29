@@ -1,10 +1,9 @@
 # chesscom_stats
 Chess.com statistics about Titled Players
 
-Description
 This project provides a visual analysis of chess players' ratings across different formats: Bullet, Blitz, and Rapid. Using Plotly, we create interactive plots that show the relationship between players' FIDE ratings and their performance in these three categories. The script also calculates and displays the trend lines to understand the general behavior of the data.
 
-Getting Started
+## Getting Started
 Dependencies
 Ensure you have the following Python packages installed:
 
@@ -23,7 +22,7 @@ Navigate to the cloned directory:
 
 ```cd chesscom_stats```
 
-## Data Format
+## Data Format
 Your data should be in a text file named merged_output.txt and formatted as follows:
 
 
@@ -34,7 +33,7 @@ You can use the mmerged_output.txt file which is present on the repository.
 ...
 Each line represents a player with their ratings and a FIDE rating. Ensure the values are correctly formatted and separated by | and : as shown.
 
-Usage
+## Usage
 To run the analysis, follow these steps:
 
 Ensure your data file merged_output.txt is in the root of the project directory and correctly formatted.
